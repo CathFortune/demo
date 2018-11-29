@@ -1,2 +1,1 @@
-# demo
-Demo repository
+Demo content for read me
